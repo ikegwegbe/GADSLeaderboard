@@ -1,0 +1,22 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/background_dark</item>
+        <item name="colorPrimaryDark">@android:color/background_dark</item>
+        <item name="colorAccent">@android:color/white</item>
+        <item name="colorSurface">@android:color/holo_orange_dark</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+<!--    <style name="Theme.AppCompat.Translucent" parent="Theme.AppCompat.NoActionBar">-->
+<!--        <item name="android:id">#33000000</item>-->
+<!--        <z-->
+<!--    </style>-->
+
+
+</resources>
